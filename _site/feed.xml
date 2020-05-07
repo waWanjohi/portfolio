@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-07T15:13:18+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Gideon Wanjohi</title><subtitle>My name is Gideon Wanjohi. I'm curently studying Bachelor of Business Information Technology with an added minor in music. It is for my love of technology that I enjoy what I do.</subtitle><entry><title type="html">Portfolio</title><link href="http://localhost:4000/portfolio/" rel="alternate" type="text/html" title="Portfolio" /><published>2020-03-12T00:00:00+03:00</published><updated>2020-03-12T00:00:00+03:00</updated><id>http://localhost:4000/portfolio</id><content type="html" xml:base="http://localhost:4000/portfolio/">&lt;style&gt;
+    .avatar {
+    width: 128px;
+    height: 128px;
+    background: url(/assets/images/me.jpg);
+    background-size: cover;
+    border-radius: 50%;
+    background-color: #525252;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+    border: 4px solid #fff;
+}
+&lt;/style&gt;
+
+&lt;div class=&quot;avatar&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Gideon Wanjohi&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;University of Eastern Africa, Baraton&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Phone +(254) 745 719 193&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Email:  &lt;a href=&quot;mailto:gideonwanjohi1@gmail.com&quot;&gt;gideonwanjohi1@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Github: &lt;a href=&quot;https://github.com/waWanjohi&quot;&gt;waWanjohi&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;LinkedIn: &lt;a href=&quot;https://www.linkedin.com/in/gideon-wanjohi-11b364157?trk=people-guest_people_search-card&quot;&gt;Gideon Wanjohi&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;career-objective&quot;&gt;Career Objective&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora sit sint asperiores odit, excepturi incidunt numquam voluptatum culpa ullam&lt;/p&gt;
+
+&lt;h2 id=&quot;education&quot;&gt;Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1&lt;/strong&gt; &lt;br /&gt;
+    &lt;em&gt;University of Eastern Africa, Baraton&lt;/em&gt; &lt;br /&gt;
+    &lt;em&gt;Degree enrolled, Bachelor of Business Information Technology&lt;/em&gt;&lt;br /&gt;
+    &lt;em&gt;Expected graduation date; August 2021&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Nyeri High School&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;KCSE Certificate&lt;/em&gt;  &lt;br /&gt;
+&lt;em&gt;From 2013 to 2016&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Grade Acquired: B Plain&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;other-academic-qualifications&quot;&gt;Other Academic Qualifications&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Certified Computer Packages Training&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;skills-and-abilities&quot;&gt;Skills and abilities&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Leadership: I have been a team leader in various school projects and generally I am a competent leader&lt;/em&gt; &lt;br /&gt;
+&lt;em&gt;Communication: I am eloquent in English, and also good in public speaking&lt;/em&gt; &lt;br /&gt;
+&lt;em&gt;Writing skills&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Advanced Linux User&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;languages&quot;&gt;Languages&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Java&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Python&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;JavaScript&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;PHP&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;HTML and CSS&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;C and C++&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;frameworks&quot;&gt;Frameworks&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Vue Js&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;PHP Laravel&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;JavaFX&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Python Django&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Ruby Jekyll&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;hobbies-and-interests&quot;&gt;Hobbies and interests&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Music&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Learning new things&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
