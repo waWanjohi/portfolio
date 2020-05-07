@@ -53,6 +53,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora sit sint asper
 *Leadership: I have been a team leader in various school projects and generally I am a competent leader*   
 *Communication: I am eloquent in English, and also good in public speaking*   
 *Writing skills*  
+*Advanced Linux User*
 
 ## Languages
 
