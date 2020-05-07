@@ -22,7 +22,7 @@ title: Gideon Wanjohi
 email: gideonwanjohi1@gmail.com
 # description: >- # this means to ignore newlines until "baseurl:"
 description: My name is Gideon Wanjohi. I'm curently studying Bachelor of Business Information Technology with an added minor in music. It is for my love of technology that I enjoy what I do.
-baseurl: "https://www.github.com/waWanjohi/portfolio/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.github.com/waWanjohi/portfolio" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: waWanjohi
 github_username:  waWanjohi
@@ -30,7 +30,7 @@ linkedIn_url: "https://www.linkedin.com/in/gideon-wanjohi-11b364157?trk=people-g
 
 
 # Build settings
-theme: minima
+remote_theme: minima
 plugins:
   - jekyll-feed
 
