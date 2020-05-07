@@ -30,7 +30,7 @@ linkedIn_url: "https://www.linkedin.com/in/gideon-wanjohi-11b364157?trk=people-g
 
 
 # Build settings
-remote_theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-feed
 
