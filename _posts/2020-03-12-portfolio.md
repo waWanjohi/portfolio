@@ -1,7 +1,7 @@
 ---
 layout: "default"
 title: "Portfolio"
-permalink: "/cv/"
+permalink: "cv/"
 ---
 <style>
     .avatar {
